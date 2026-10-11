@@ -1,0 +1,45 @@
+{
+  "source": "fallback",
+  "name": "glutiliNO Kézműves Gluténmentes Pizzéria és Pékség",
+  "rating": 4.9,
+  "total": 331,
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=glutiliNO%20K%C3%A9zm%C5%B1ves%20Glut%C3%A9nmentes%20Pizz%C3%A9ria%20%C3%A9s%20P%C3%A9ks%C3%A9g%20Budapest",
+  "placeId": null,
+  "reviews": [
+    {
+      "author": "Klaudia Varga",
+      "rating": 5,
+      "when": "2 hónapja",
+      "text": "Minden túlzás nélkül mondhatom hogy itt készül a világ legfinomabb GM pizzája. 😊 Az az odafigyelés az érzékenyekre amit itt tapasztaltunk, sehol máshol még nem történt meg. Ezer hála hogy vagytok! 🙏 Visszatérünk! 😊",
+      "truncated": true
+    },
+    {
+      "author": "V. Bernadett",
+      "rating": 5,
+      "when": "5 hónapja",
+      "text": "Életemben először ettem gluténmentes pizzát, de meg nem mondtam volna róla, hogy mentes. Az ételek minősége kiváló volt",
+      "truncated": true
+    },
+    {
+      "author": "Zoltán HunTurbo",
+      "rating": 5,
+      "when": "5 hónapja",
+      "text": "Az egyik legfinomabb gluténmentes pizzát ettem itt Budapesten az utóbbi időben. A tészta fantasztikus, kívül ropogós, belül puha, a széle szépen feljön sütés",
+      "truncated": true
+    },
+    {
+      "author": "Biro Brigitta",
+      "rating": 5,
+      "when": "4 hónapja",
+      "text": "Gluténérzékenyek, figyelem – ez egy igazi gluténmentes mennyország! 🙏 Baráti társasággal érkeztünk, mindenki pizzát választott, és egyszerűen isteni",
+      "truncated": true
+    },
+    {
+      "author": "József Samu",
+      "rating": 5,
+      "when": "5 hónapja",
+      "text": "Az ország legjobb gluténmentes pizzája – simán felveszi a versenyt az olaszokkal is. Ritkán írok véleményt, de itt minden kifogástalan volt: kenyér, kakaós",
+      "truncated": true
+    }
+  ]
+}
